@@ -61,7 +61,19 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+## 🌍 How Users Globally Access EpicReads
+
+Imagine **EpicReads** is a bookstore website hosted on a server in Finland 🇫🇮, while customers are located around the world 🌎.
+
+When a user opens EpicReads, the website data is divided into small **packets 📦**. Using **Packet Switching**, these packets travel across different networks and routers, possibly taking different paths, before reaching the user's device.
+
+Every device involved has an **IP Address 📍**, which acts like a digital address and helps identify where packets should be sent.
+
+**TCP/IP 🚚** provides the basic communication rules: **IP** handles addressing and routing, while **TCP** ensures data is delivered reliably and in the correct order.
+
+Finally, **HTTP/HTTPS 🌐** allows the browser and EpicReads' server to communicate. **HTTPS 🔐** encrypts the communication, keeping sensitive information such as passwords and payment details safer.
+
+Thus, users worldwide can access EpicReads even though its server is located in Finland.
 
 ---
 
