@@ -35,7 +35,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+By providing chatGPT with a clear context, role, audience, depth, examples, and formatting requirements, I transformed a topic into a structured and relatable learning experience.
+I have also discovered by working with and refining the prompts over time, that I can extract and assimilate information much more effectively by asking for an iteration of the prompt to make it simpler, analogue, provide examples from real life or provide a summary that is screen friendly. 
 
 ---
 
