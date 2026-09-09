@@ -127,18 +127,35 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+- React
+- Angular
+- Vue.js
+- HTML/CSS
+- JavaScript
+- TypeScript
+- Next.js
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+- Node.js
+- Express.js
+- FastAPI
+- Django
+- Flask
+- Spring Boot
+- ASP.NET Core
+- Laravel
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+- PostgreSQL
+- MySQL
+- MongoDB
+- Oracle Database
+- Microsoft SQL Server
+- SQLite
+- Redis
+- MariaDB
 
 ---
 
@@ -167,9 +184,10 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1. DNS (Domain Name System) is a feature in web technology which is used to convert an IP address of a website into a human readable link (vice-versa). Example, Google link is technically in octect form (considering IPv4) like 142.xx.xx.xx (Public IP address) which is hard to memorize of even use it (Dynamic IP), so DNS is responsible to have this IP address as a human readable link as : "www.google.com"
+2. Since epicreads.com is an IPv4 address, 'A' record is used for DNS. 
 
----
+ ---
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
 
