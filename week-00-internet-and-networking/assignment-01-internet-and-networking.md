@@ -284,13 +284,41 @@ Paste the full text of your LinkedIn post here:
 
 Add your post content here...
 
+```text
+✅Completed Tasks of Week 00 - Internet and Networking, of the DevOps Micro Internship.
+
+This week was mainly about understanding the basics that are needed before getting into the actual DevOps tools and workflows.
+
+𝗖𝗵𝗮𝘁𝗚𝗣𝗧
+Learned how to use ChatGPT effectively for understanding technical concepts, breaking down problems, and improving my learning process.
+
+𝗜𝗻𝘁𝗲𝗿𝗻𝗲𝘁 & 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴
+Worked through the basics of how devices communicate over the Internet, including IP addresses, ports, NAT, routers, and how a request reaches a server.
+
+𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
+Learned the basic structure of an application and how the frontend, backend, APIs, and database communicate with each other.
+
+𝗗𝗡𝗦
+Learned how DNS works and how a domain name gets resolved to an IP address when accessing a website.
+
+𝗩𝗦 𝗖𝗼𝗱𝗲 𝗦𝗲𝘁𝘂𝗽
+Set up my development environment in VS Code and got the basic project structure and tools ready for the upcoming tasks.
+
+I've also attached some of the diagrams and screenshots from my Week 00 work as evidence of what I completed.
+Looking forward to continuing with the next set of tasks and getting more hands-on with DevOps!.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/gKVaVndW · Start your DevOps journey: https://lnkd.in/gSRqreJg
+
+hashtag#DMIByPravinMishra
+```
+
 ---
 
 # Reflection – Week 0
 
 ### What did you find easy?
 
-I found setting up vs-code and using the terminal easy as I already possessed some knowledge about it.
+I found setting up vs-code and using the terminal easy as I already possess some knowledge about it.
 
 ---
 
