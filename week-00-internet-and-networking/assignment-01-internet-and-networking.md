@@ -273,7 +273,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/gtWQ2JQv
 ```
 
 ---
@@ -290,19 +290,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found setting up vs-code and using the terminal easy as I already possessed some knowledge about it.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Using draw.io for drawing diagrams was new and a little bit time-consuming.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I will improve the prompt writing skills for obtaining efficient and effective results aligning to the requirements.
 
 ---
 
