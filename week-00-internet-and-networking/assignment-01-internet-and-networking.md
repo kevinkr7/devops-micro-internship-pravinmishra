@@ -250,13 +250,11 @@ Add the following credit note at the end of your post **(If you are DMI Self-pac
 Add the following credit note at the end of your post **(If you are DMI Campus student)**:
 
 > **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus**
-
-Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your public DMI progress page (your graded badge page).
 ---
 
 ## LinkedIn Post URL
 
-[https://lnkd.in/p/gtWQ2JQv](https://www.linkedin.com/posts/kevinkr77_dmibypravinmishra-ugcPost-7503487174789464064-YQrm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw)
+https://www.linkedin.com/posts/kevinkr77_dmibypravinmishra-ugcPost-7503487174789464064-YQrm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw
 
 ---
 
