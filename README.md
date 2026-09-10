@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Kevin K R |
+| **LinkedIn** | [kevinkr77](https://www.linkedin.com/in/kevinkr77/) |
+| **Location** | Coimbatore, Tamil Nadu |
+| **Background** | Full stack Development & AI/ML |
+| **Goal** | To gain deeper insights into computer science and programming while becoming a creative technologist |
 
 ---
 
@@ -130,7 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | 🔄 In Progress | ✅ Solved | https://www.linkedin.com/posts/kevinkr77_dmibypravinmishra-ugcPost-7503487174789464064-YQrm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw | https://medium.com/@kevinraphy1/i-typed-a-website-url-then-i-realized-i-had-no-idea-what-happened-next-3c2afebd5935?sharedUserId=kevinraphy1 |
 | 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
