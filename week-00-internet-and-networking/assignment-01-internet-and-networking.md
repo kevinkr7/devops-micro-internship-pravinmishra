@@ -23,13 +23,8 @@ Take a screenshot of your interaction showing:
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
-
 ![Task 1 Screenshot](screenshots/week-00-ChatGPT-prompt.png)
 ![Task 1 Screenshot](screenshots/week-00-ChatGPT-response-simplified.png)
-
-
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
@@ -103,8 +98,6 @@ EpicReads bookstore has two application versions:
 
 ## Diagram Screenshot / Photo
 
-Save your diagram image in the `screenshots` folder and update the file name below.
-
 <p align="center">
   <img src="screenshots/Two-tier.drawio.png" alt="Two-Tier Architecture Diagram">
   <br>
@@ -118,8 +111,6 @@ Save your diagram image in the `screenshots` folder and update the file name bel
   <br>
   <strong>Three-Tier Architecture</strong>
 </p>
-
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -219,12 +210,7 @@ ls
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
-
 ![VS Code Setup Screenshot](screenshots/vs-code.png)
-
-
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
@@ -270,19 +256,11 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
-```text
-https://lnkd.in/p/gtWQ2JQv
-```
+[https://lnkd.in/p/gtWQ2JQv](https://www.linkedin.com/posts/kevinkr77_dmibypravinmishra-ugcPost-7503487174789464064-YQrm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw)
 
 ---
 
 ## LinkedIn Post Backup Copy
-
-Paste the full text of your LinkedIn post here:
-
-Add your post content here...
 
 ```text
 ✅Completed Tasks of Week 00 - Internet and Networking, of the DevOps Micro Internship.
