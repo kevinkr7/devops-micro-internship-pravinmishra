@@ -65,10 +65,10 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-**Your stack (uncomment each badge as you earn it):**
+**Your stack:**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+Week 00 → Internet & Networking Basics
+[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
 
 <!-- Week 01 → Success Mindset -->
 <!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
@@ -109,7 +109,6 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 13 → Final Project / Capstone -->
 <!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
 
-*Complete a week → uncomment the badge → watch your stack grow.*
 
 ---
 
