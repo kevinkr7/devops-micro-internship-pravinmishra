@@ -145,14 +145,42 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 ## Your Article
 
-Add your answer here...
+Five years ago, Kevin Raphy was a final-year Computer Science and Engineering student trying to understand what kind of engineer he wanted to become. Today, he is recognized as a versatile software engineer who has built production-ready applications, contributed to developer communities, published technical research, and worked across full-stack development, artificial intelligence, and DevOps.
+
+His journey was not defined by a single technology. It was defined by his willingness to understand how systems worked from the ground up.
+
+Over the years, Kevin built and shipped several projects that combined software engineering with artificial intelligence. His work included AI-powered learning platforms, computer-vision systems, agricultural prediction systems, and experimental platforms involving EEG signal analysis. One of his notable projects, NexaSense, transformed students’ notes into structured summaries, mind maps, and quizzes using a modern web stack. Another project explored crop hybrid prediction using machine learning and biological data.
+
+His GitHub became a detailed record of this progression. Instead of treating it simply as a place to store code, Kevin used it to document projects, experiments, technical decisions, and his increasing understanding of software engineering practices.
+
+His research work also became an important part of his career. He published IEEE papers on real-time sign-board detection and tracking using YOLOv8 and DeepSORT and smart solar-panel orientation and performance analytics using IoT and cloud integration. These projects demonstrated his ability to take ideas beyond classroom assignments and turn them into structured technical work.
+
+By 2031, Kevin had also developed strong experience with technologies including Java, Python, TypeScript, React, FastAPI, REST APIs, databases, cloud platforms, Linux, Bash scripting, Git, and DevOps practices. His early curiosity about Bash eventually grew into a deeper interest in automation, deployment, infrastructure, and the engineering systems behind modern applications.
+
+His portfolio evolved alongside his skills. What began as a collection of academic projects became a professional engineering portfolio containing deployed applications, research, technical documentation, certifications, and open-source contributions.
+
+Beyond his individual work, Kevin also contributed to student and developer communities. He participated in hackathons, technical events, research activities, and community initiatives, eventually taking leadership responsibilities and helping other students navigate technology and career opportunities.
+
+Become a Medium member
+Perhaps the most significant achievement was not a particular project or certification. It was the transformation in his approach to engineering.
+
+Kevin learned to move from “I need to learn this technology” to “I need to understand this problem and build a reliable solution.”
+
+That mindset shaped the engineer he became.
+
+Looking back at his early GitHub repositories, unfinished experiments, documentation, and first attempts at complex systems, the progression was obvious. Each project had been another step toward becoming an engineer who could not only write code, but also design systems, deploy them, document them, collaborate with others, and take responsibility for what he built.
+
+Five years after college, Kevin’s career stood as evidence of one simple principle:
+
+Consistent curiosity, backed by real work, compounds.
+
+He did not build his career overnight. He built it one repository, one project, one technical problem, and one lesson at a time.
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
-
+https://medium.com/@kevinraphy1/from-curious-cse-student-to-engineer-how-kevin-raphy-built-his-way-into-tech-8f7e350e4abb?sharedUserId=kevinraphy1
 ---
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
@@ -183,7 +211,11 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes
+
+What emotion did you feel?
+
+I was feeling guilty, stressed and remorseful. Although I sometimes felt a sense of relief that I had completed something quicker, that feeling didn't last. I wondered if I had gotten what I deserved or if I had taken the short-cut around the hard work. I also became more anxious because I realized that if someone asked me about my work, I might not be able to be confident about it and defend it. I learned that shortcuts can save a lot of time in the short run, but can also lead to loss of peace of mind and confidence in the long run. Since then, I have been trying to appreciate the honest effort, rather than just getting the job done, and to appreciate the genuine understanding.
 
 ---
 
@@ -209,16 +241,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Ikigai: The Japanese Secret to a Long and Happy Life — Héctor García & Francesc Miralles
+2. I’m Glad My Mom Died — Jennette McCurdy
+3. Atomic Habits — James Clear
+4. Deep Work — Cal Newport
+5. The Psychology of Money — Morgan Housel
+6. How to Win Friends and Influence People — Dale Carnegie
+7. The 7 Habits of Highly Effective People — Stephen R. Covey
+8. Can’t Hurt Me — David Goggins
+9. Essentialism: The Disciplined Pursuit of Less — Greg McKeown
+10. The Almanack of Naval Ravikant — Eric Jorgenson
 
 ---
 
@@ -247,16 +279,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning / skill development
+* Technical skills mastered
+* Projects shipped / documented
+* GitHub contributions and portfolio updates
+* Certifications and courses completed
+* Deep work / focused study sessions
+* Time spent on social media and distractions
+* Sleep quality and sleep hours
+* Exercise / workouts and daily physical activity
+* Personal spending, savings, and investments
 
 ---
 
@@ -282,7 +314,8 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
+Yes. I listed down the things that I was thinking of, the tasks, responsibilities, pending work, career goals, project ideas, academic work, personal concerns, and so on. Having everything in one place helped me to see what needed to be done rather than in my head. It also helped to distinguish between things that needed to be done and things that could be done at a later time.
 
 ---
 
