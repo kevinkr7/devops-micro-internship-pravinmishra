@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I think it's a misjudgment to be good at something. I think most of the people around me would think that to be successful in a career we should pick a field, specialize in it and then stick with that for years. I disagree it and I think that if you go deep in other fields it can make a much stronger person. Inside the head of a computer scientist, a biologist, a musician, the designer, and an AI specialist may be combinations of unfocused minds, but the combination of these minds can yield concepts that a specialist would never imagine. I would rather be a person who continues to explore, and relates the fields rather than dive into a single narrow area to make something of myself, and be really specialized.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistency produces better results than relying on motivation
 
 ### Evidence from my life
 
-Add your answer here...
+At times, I'd wait for motivation to come to me before studying, coding, or working on projects, and my progress would come to a halt. Later, I realised that sitting and waiting for a driving force would only waste time, so I started pushing myself to shift my focus towards simply learning.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+When you build something yourself, you will find out how you are lacking in knowledge much quicker than if you just studied it.
 
 ### Evidence from my life
 
-Add your answer here...
+As I worked on a number of projects using technologies like React, TypeScript, FastAPI, and Firebase, I kept running into ideas that I thought were easy to learn in theory, but hard to implement in practice. When I had to debug those issues I had to get a deeper understanding of those concepts. It was more beneficial to me to have to solve those implementation issues than just watching tutorials.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+If you try to learn too much at once, then you will not learn it well.
 
 ### Evidence from my life
 
-Add your answer here...
+I have worked with various domains such as AI, full stack, biology projects, Blender, music, cloud technologies, and programming languages. I have learned what I like in them, but when I have tried to do more than one at a time, I have been overwhelmed and have not been able to complete them. I focused my attention on fewer goals and my learning was more focused and productive
 
 ---
 
