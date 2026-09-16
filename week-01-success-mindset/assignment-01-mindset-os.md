@@ -333,7 +333,13 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Monday–Thursday: 60–90 minutes of focused technical work each day.
+   * DSA and problem solving
+   * Core CS concepts such as DBMS, OS, and Networking
+   * Programming and interview preparation
+* Friday: 60 minutes for revision, unfinished tasks, or project work.
+* Saturday: 2–3 hours of deeper project/DMI work, followed by a short review of the week's progress.
+* Sunday: Weekly review and planning for the upcoming week, along with lighter study or personal time.
 
 ---
 
@@ -341,11 +347,24 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+I will primarily do my DMI work during my most productive and relatively uninterrupted periods:
+
+Monday–Thursday: 6:30–7:30 AM
+Friday: 6:30–7:30 AM
+Saturday: 9:00–11:00 AM for a longer focused session
+Sunday: 30–45 minutes for review and planning
+
+When college or other responsibilities interfere, I will move the session to the evening rather than considering the day completely lost.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+I will aim for 5 focused sessions per week, with:
+
+4 × 60-minute weekday sessions
+1 × 2-hour Saturday deep-work session
+A short Sunday review
+
+The priority is consistency over intensity.
 
 ---
 
@@ -359,7 +378,16 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Phone away during focus blocks — I will keep my phone on silent/DND and away from my immediate workspace.
+* No Instagram or short-form content during study sessions. Social media will only be checked during predetermined breaks.
+* One task at a time — I will not switch between DSA, projects, videos, and other tasks whenever I feel stuck.
+* Use a written task list — before starting a session, I will decide exactly what I am going to accomplish.
+* Avoid perfectionism — if I get stuck on a problem for too long, I will learn from the solution and move forward instead of spending the entire session on one task.
+* Keep the workspace ready — laptop, notebook, charger, water, and required resources should be prepared before starting.
+* Limit unnecessary notifications — WhatsApp, Instagram, email, and other non-essential notifications will remain disabled during deep work.
+* End each session with a small record — I will write down what I completed, what remains, and what I should do next.
+* Protect sleep — I will avoid sacrificing sleep repeatedly to compensate for unfinished work.
+* Never restart the entire plan after missing a day. If I miss a session, I will simply resume at the next scheduled block.
 
 ---
 
@@ -367,15 +395,16 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+The greatest thing I learned is that I tend to have too many things on my mind at once. I think about academics, placements, projects, career goals and unfinished work at the same time, and it makes everything seem more overwhelming than it is. I thought I had too little time and/or ability to write it all down, but it was just a lack of structure and prioritization.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I am the worst at getting caught in an overthinking and avoidance pattern. Sometimes I feel like I have too much work to do, and I procrastinate, I get distracted by social media, or I just keep planning but don't do anything. This eventually builds up more pressure and I wonder how much I have progressed. I knew that I can't wait until I feel 100% motivated or confident before starting.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will be following a 60-minute distraction-free focus block from 6.30am to 7.30am each Monday to Friday from this week. I will write one specific task for that session before I begin. My phone will be out of my reach for an hour and I will focus on just that task. Finally, I will take 2 minutes to write down what I have done and what I need to do next.
+I don't want to have a perfect day every day, but I want to have a system that will keep me moving forward when I'm stressed or not motivated.
 
 ### LinkedIn Post
 
