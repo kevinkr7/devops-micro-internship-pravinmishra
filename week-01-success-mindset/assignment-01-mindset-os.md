@@ -314,7 +314,6 @@ Examples:
 
 Answer:
 
-Yes
 Yes. I listed down the things that I was thinking of, the tasks, responsibilities, pending work, career goals, project ideas, academic work, personal concerns, and so on. Having everything in one place helped me to see what needed to be done rather than in my head. It also helped to distinguish between things that needed to be done and things that could be done at a later time.
 
 ---
@@ -349,10 +348,10 @@ Example:
 
 I will primarily do my DMI work during my most productive and relatively uninterrupted periods:
 
-Monday–Thursday: 6:30–7:30 AM
-Friday: 6:30–7:30 AM
-Saturday: 9:00–11:00 AM for a longer focused session
-Sunday: 30–45 minutes for review and planning
+* Monday–Thursday: 6:30–7:30 AM
+* Friday: 6:30–7:30 AM
+* Saturday: 9:00–11:00 AM for a longer focused session
+* Sunday: 30–45 minutes for review and planning
 
 When college or other responsibilities interfere, I will move the session to the evening rather than considering the day completely lost.
 
@@ -410,14 +409,14 @@ I don't want to have a perfect day every day, but I want to have a system that w
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/kevinkr77_week-1-of-my-devops-micro-internship-mindset-activity-7505968129349554176-0WKn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: [**week 01 linkedin post** ](https://www.linkedin.com/posts/kevinkr77_week-1-of-my-devops-micro-internship-mindset-activity-7505968129349554176-0WKn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw) 
+- Blog / Medium : [**week 01 medium post** ](https://medium.com/@kevinraphy1/from-curious-cse-student-to-engineer-how-kevin-raphy-built-his-way-into-tech-8f7e350e4abb) 
 
 ---
 
