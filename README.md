@@ -129,8 +129,8 @@ Week 00 → Internet & Networking Basics
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | 🔄 In Progress | ✅ Solved | https://www.linkedin.com/posts/kevinkr77_dmibypravinmishra-ugcPost-7503487174789464064-YQrm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw | https://medium.com/@kevinraphy1/i-typed-a-website-url-then-i-realized-i-had-no-idea-what-happened-next-3c2afebd5935?sharedUserId=kevinraphy1 |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/kevinkr77_dmibypravinmishra-ugcPost-7503487174789464064-YQrm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw | https://medium.com/@kevinraphy1/i-typed-a-website-url-then-i-realized-i-had-no-idea-what-happened-next-3c2afebd5935?sharedUserId=kevinraphy1 |
+| 01 | Success Mindset | 🔄 In Progress | ✅ Solved | https://www.linkedin.com/posts/kevinkr77_week-1-of-my-devops-micro-internship-mindset-activity-7505968129349554176-0WKn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw | https://medium.com/@kevinraphy1/from-curious-cse-student-to-engineer-how-kevin-raphy-built-his-way-into-tech-8f7e350e4abb?sharedUserId=kevinraphy1 |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
