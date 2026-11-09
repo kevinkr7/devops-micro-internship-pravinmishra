@@ -20,7 +20,9 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-Add your screenshot here.
+![Claude generic response 1](screenshots/ss75.png) <br>
+![Claude generic response 2](screenshots/ss76.png) <br>
+![Claude generic response 3](screenshots/ss77.png)
 
 ---
 
@@ -34,7 +36,9 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-Add your screenshot here.
+![Auto-generated CLAUDE.md 1](screenshots/ss86.png) <br>
+![Auto-generated CLAUDE.md 2](screenshots/ss87.png) <br>
+![Auto-generated CLAUDE.md 3](screenshots/ss88.png)
 
 ---
 
@@ -48,7 +52,7 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
+![Customized CLAUDE.md showing all 5 sections](screenshots/ss89.png)
 
 ---
 
@@ -62,13 +66,13 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
+![Claude specific answer with S3, CloudFront, Terraform](screenshots/ss96.png)
 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
+![Claude refusing React due to project conventions](screenshots/ss98.png)
 
 ---
 
@@ -82,7 +86,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+![CLAUDE.md committed and visible in GitHub repo](screenshots/ss102.png)
 
 ---
 
@@ -98,19 +102,21 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/kevinkr7/devops-micro-internship-pravinmishra
+
+*Starter Repository Fork:* https://github.com/kevinkr7/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
 # Completion Checklist
 
-[ ] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
-[ ] Screenshot 2 shows the auto-generated `/init` output <br>
-[ ] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
-[ ] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
-[ ] Screenshot 5 shows Claude refusing the React request <br>
-[ ] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
-[ ] GitHub repository URL is included in the submission <br>
+[x] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
+[x] Screenshot 2 shows the auto-generated `/init` output <br>
+[x] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
+[x] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
+[x] Screenshot 5 shows Claude refusing the React request <br>
+[x] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
+[x] GitHub repository URL is included in the submission <br>
 
 ---
 

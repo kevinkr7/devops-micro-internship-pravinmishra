@@ -3,7 +3,7 @@
 ![Cohort](https://img.shields.io/badge/Cohort-3-blue?style=for-the-badge)
 ![Program](https://img.shields.io/badge/DevOps_Micro_Internship-Pravin_Mishra-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
-![Weeks](https://img.shields.io/badge/Weeks_Completed-0%2F14-green?style=for-the-badge)
+![Weeks](https://img.shields.io/badge/Weeks_Completed-3%2F14-green?style=for-the-badge)
 
 > 👋 **New here?** Read the [submission instructions](./onboarding) first — how to fork, fill in, and submit your assignments.
 > Find all the required links & assignment guidelines from here [Required links](./dmi_cohort3_resources.md)
@@ -57,7 +57,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 *Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below.*
 
-*Share your stack:* `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
+*Share your stack:* `https://github.com/kevinkr7/devops-micro-internship-pravinmishra#my-devops-stack`
 
 **Preview — what your full stack looks like:**
 
@@ -73,8 +73,8 @@ Week 00 → Internet & Networking Basics<br>
 Week 01 → Success Mindset<br>
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+Week 02 → Agentic AI with Claude Code<br>
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
 <!-- Week 03 → Linux & Bash for DevOps -->
 <!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
@@ -130,8 +130,8 @@ Week 01 → Success Mindset<br>
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/kevinkr77_dmibypravinmishra-ugcPost-7503487174789464064-YQrm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw | https://medium.com/@kevinraphy1/i-typed-a-website-url-then-i-realized-i-had-no-idea-what-happened-next-3c2afebd5935?sharedUserId=kevinraphy1 |
-| 01 | Success Mindset | 🔄 In Progress | ✅ Solved | https://www.linkedin.com/posts/kevinkr77_week-1-of-my-devops-micro-internship-mindset-activity-7505968129349554176-0WKn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw | https://medium.com/@kevinraphy1/from-curious-cse-student-to-engineer-how-kevin-raphy-built-his-way-into-tech-8f7e350e4abb?sharedUserId=kevinraphy1 |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/kevinkr77_week-1-of-my-devops-micro-internship-mindset-activity-7505968129349554176-0WKn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw | https://medium.com/@kevinraphy1/from-curious-cse-student-to-engineer-how-kevin-raphy-built-his-way-into-tech-8f7e350e4abb?sharedUserId=kevinraphy1 |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | [LinkedIn Post](https://www.linkedin.com/in/kevinkr77/) | [Reflection Blog](./week-02-agentic-ai/assignment-08-week-2-reflection.md) |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
@@ -162,6 +162,6 @@ Week 01 → Success Mindset<br>
 If you found this repo useful or want to follow my DevOps journey:
 
 - ⭐ Star this repo
-- 🔗 Connect with me on [LinkedIn](#)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kevinkr77/)
 - 🌐 Learn more about the program: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
 - 💬 Join the community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
