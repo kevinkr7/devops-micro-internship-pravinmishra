@@ -20,13 +20,13 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
-![Terminal showing claude version](screenshots/ss5.png)
+![Terminal showing claude version](screenshots/a1-ss1-version.png)
 
 ---
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
-![Claude Code authenticated and showing terminal prompt](screenshots/ss34.png)
+![Claude Code authenticated and showing terminal prompt](screenshots/a1-ss2-auth.png)
 
 ---
 
@@ -40,7 +40,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-![VS Code project structure](screenshots/ss50.png)
+![VS Code project structure](screenshots/a1-ss3-explorer.png)
 
 ---
 
@@ -54,17 +54,13 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
-![Claude gathering project files - tool calls](screenshots/ss59.png) <br>
-![Claude reading project structure](screenshots/ss60.png) <br>
-![Claude response detail 1](screenshots/ss61.png) <br>
-![Claude response detail 2](screenshots/ss62.png)
+![Claude gathering project files - tool calls](screenshots/a1-ss4-agentic-loop.png)
 
 ---
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
-![Claude running command to count CSS lines](screenshots/ss65.png) <br>
-![Claude reporting CSS line count](screenshots/ss66.png)
+![Claude reporting CSS line count](screenshots/a1-ss5-css-lines.png)
 
 ---
 

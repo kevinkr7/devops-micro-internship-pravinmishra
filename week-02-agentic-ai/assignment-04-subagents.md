@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-![VS Code sidebar showing .claude/agents/ with all 3 files](screenshots/ss162.png)
+![VS Code sidebar showing .claude/agents/ with all 3 files](screenshots/a4-ss1-agents-folder.png)
 
 ---
 
@@ -54,13 +54,13 @@ The Terraform writer needs adaptability depending on the complexity of the task 
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-![security-auditor.md frontmatter configuration](screenshots/ss167.png)
+![security-auditor.md frontmatter configuration](screenshots/a4-ss2-security-auditor-frontmatter.png)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-![cost-optimizer.md frontmatter configuration](screenshots/ss168.png)
+![cost-optimizer.md frontmatter configuration](screenshots/a4-ss3-cost-optimizer-frontmatter.png)
 
 ---
 
@@ -74,14 +74,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-![Claude launching security-auditor delegation](screenshots/ss172.png)
+![Claude launching security-auditor delegation](screenshots/a4-ss4-security-auditor-launch.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-![Security audit report output](screenshots/ss173.png) <br>
-![Security audit report findings](screenshots/ss174.png)
+![Security audit report output](screenshots/a4-ss5-security-report.png)
 
 ---
 
@@ -95,8 +94,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-![Cost optimization delegation and report](screenshots/ss176.png) <br>
-![Cost optimization recommendations](screenshots/ss177.png)
+![Cost optimization delegation and report](screenshots/a4-ss6-cost-optimizer-launch.png)
 
 ---
 

@@ -20,7 +20,7 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
 
-![VS Code sidebar showing .claude/skills/ with all 4 subfolders](screenshots/ss131.png)
+![VS Code sidebar showing .claude/skills/ with all 4 subfolders](screenshots/a3-ss1-skills-structure.png)
 
 ---
 
@@ -34,13 +34,13 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 
-![scaffold-terraform folder showing SKILL.md and template-spec.md](screenshots/ss153.png)
+![scaffold-terraform folder showing SKILL.md and template-spec.md](screenshots/a3-ss2-scaffold-files.png)
 
 ---
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
-![tf-plan/SKILL.md frontmatter with tool restrictions](screenshots/ss154.png)
+![tf-plan/SKILL.md frontmatter with tool restrictions](screenshots/a3-ss3-tf-plan-frontmatter.png)
 
 ---
 
@@ -54,13 +54,13 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 4 — Claude's response showing the scaffold complete with the file list
 
-![Claude response showing scaffold complete with file list](screenshots/ss136.png)
+![Claude response showing scaffold complete with file list](screenshots/a3-ss4-scaffold-output.png)
 
 ---
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
-![VS Code sidebar showing terraform folder with generated files](screenshots/ss137.png)
+![VS Code sidebar showing terraform folder with generated files](screenshots/a3-ss5-terraform-files.png)
 
 ---
 
@@ -74,8 +74,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
-![Claude tf-plan response 1](screenshots/ss163.png) <br>
-![Claude tf-plan response 2](screenshots/ss164.png)
+![Claude tf-plan response](screenshots/a3-ss6-tf-plan-output.png)
 
 ---
 

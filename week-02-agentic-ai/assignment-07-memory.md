@@ -20,7 +20,7 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-![Memory file path shown by Claude](screenshots/ss271.png)
+![Memory file path shown by Claude](screenshots/a7-ss1-memory-path.png)
 
 ---
 
@@ -34,14 +34,13 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-![Claude confirming memory was saved](screenshots/ss274.png)
+![Claude confirming memory was saved](screenshots/a7-ss2-memory-saved.png)
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-![MEMORY.md file open in VS Code](screenshots/ss276.png) <br>
-![MEMORY.md saved content details](screenshots/ss277.png)
+![MEMORY.md file open in VS Code](screenshots/a7-ss3-memory-md.png)
 
 ---
 
@@ -55,7 +54,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-![Fresh Claude Code session after restart](screenshots/ss280.png)
+![Fresh Claude Code session after restart](screenshots/a7-ss4-session-restart.png)
 
 ---
 
@@ -69,13 +68,13 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-![Claude recalling hero section colors](screenshots/ss282.png)
+![Claude recalling hero section colors](screenshots/a7-ss5-memory-recall.png)
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-![Claude refusing JavaScript request based on memory rule](screenshots/ss286.png)
+![Claude refusing JavaScript request based on memory rule](screenshots/a7-ss6-memory-rule-refusal.png)
 
 ---
 

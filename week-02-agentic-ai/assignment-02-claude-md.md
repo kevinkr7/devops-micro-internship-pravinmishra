@@ -20,9 +20,7 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-![Claude generic response 1](screenshots/ss75.png) <br>
-![Claude generic response 2](screenshots/ss76.png) <br>
-![Claude generic response 3](screenshots/ss77.png)
+![Claude generic response](screenshots/a2-ss1-generic-response.png)
 
 ---
 
@@ -36,9 +34,7 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-![Auto-generated CLAUDE.md 1](screenshots/ss86.png) <br>
-![Auto-generated CLAUDE.md 2](screenshots/ss87.png) <br>
-![Auto-generated CLAUDE.md 3](screenshots/ss88.png)
+![Auto-generated CLAUDE.md](screenshots/a2-ss2-init-draft.png)
 
 ---
 
@@ -52,7 +48,7 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-![Customized CLAUDE.md showing all 5 sections](screenshots/ss89.png)
+![Customized CLAUDE.md showing all 5 sections](screenshots/a2-ss3-customized-claude-md.png)
 
 ---
 
@@ -66,13 +62,13 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-![Claude specific answer with S3, CloudFront, Terraform](screenshots/ss96.png)
+![Claude specific answer with S3, CloudFront, Terraform](screenshots/a2-ss4-after-response.png)
 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-![Claude refusing React due to project conventions](screenshots/ss98.png)
+![Claude refusing React due to project conventions](screenshots/a2-ss5-react-refusal.png)
 
 ---
 
@@ -86,7 +82,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-![CLAUDE.md committed and visible in GitHub repo](screenshots/ss102.png)
+![CLAUDE.md committed and visible in GitHub repo](screenshots/a2-ss6-github-claude-md.png)
 
 ---
 

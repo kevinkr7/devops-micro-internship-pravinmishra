@@ -95,7 +95,7 @@ For instance, when testing hooks and tool permissions, a superficial test might 
 
 #### Screenshot 1 — Blog published and visible
 
-![Week 2 Reflection Blog published](screenshots/ss265.png)
+![Week 2 Reflection Blog published](screenshots/a8-ss1-blog-published.png)
 
 ---
 
@@ -141,7 +141,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-![LinkedIn post proof screenshot](screenshots/ss260.png)
+![LinkedIn post proof screenshot](screenshots/a8-ss2-linkedin-post.png)
 
 ---
 
