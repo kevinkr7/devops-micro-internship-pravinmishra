@@ -20,19 +20,21 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account is a secure, isolated administrative boundary and tenant container within Amazon Web Services that provides identity, access control, resource isolation, and billing management. In the context of onboarding EpicReads to the cloud, we need an AWS account at this stage to provision our underlying cloud infrastructure — such as Amazon EC2 virtual machines for hosting our application servers, VPC networks for secure communication, and S3 buckets for static asset storage. It acts as our foundational sandbox to execute real-world DevOps deployments safely.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+The AWS Free Tier is a cost-governance program provided by AWS that enables engineers, students, and businesses to explore and run eligible cloud services without incurring charges, provided usage remains within defined operational quotas. The Free Tier is structured into three tiers: 12 Months Free (which starts immediately upon account activation and lasts for one full year), Always Free (services like AWS Lambda with 1M free requests/month and DynamoDB with 25 GB storage that never expire), and Short-Term Trials.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+1. **Amazon EC2 (Elastic Compute Cloud):** Provides 750 hours per month of Linux, RHEL, or SLES `t2.micro` or `t3.micro` instance usage for the first 12 months, sufficient to run a web server 24/7.
+2. **Amazon S3 (Simple Storage Service):** Provides 5 GB of standard object storage, 20,000 GET requests, and 2,000 PUT requests per month for 12 months.
+3. **Amazon RDS (Relational Database Service):** Provides 750 hours per month of single-AZ `db.t2.micro`, `db.t3.micro`, or `db.t4g.micro` database instances running MySQL, PostgreSQL, or MariaDB, along with 20 GB of General Purpose (SSD) storage.
 
 ---
 
@@ -56,7 +58,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![AWS Account page](screenshots/a1-ss1-aws-account.png)
 
 ---
 
@@ -70,11 +72,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
-- [ ] AWS Free Tier account created successfully
-- [ ] Signed in to AWS Management Console
-- [ ] Screenshot of AWS Account page captured (full name visible, no sensitive data)
-- [ ] All required screenshots added to repository
+- [x] Task 1 answers written in own words
+- [x] AWS Free Tier account created successfully
+- [x] Signed in to AWS Management Console
+- [x] Screenshot of AWS Account page captured (full name visible, no sensitive data)
+- [x] All required screenshots added to repository
 
 ---
 
