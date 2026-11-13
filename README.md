@@ -3,7 +3,7 @@
 ![Cohort](https://img.shields.io/badge/Cohort-3-blue?style=for-the-badge)
 ![Program](https://img.shields.io/badge/DevOps_Micro_Internship-Pravin_Mishra-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
-![Weeks](https://img.shields.io/badge/Weeks_Completed-4%2F14-green?style=for-the-badge)
+![Weeks](https://img.shields.io/badge/Weeks_Completed-5%2F14-green?style=for-the-badge)
 
 > 👋 **New here?** Read the [submission instructions](./onboarding) first — how to fork, fill in, and submit your assignments.
 > Find all the required links & assignment guidelines from here [Required links](./dmi_cohort3_resources.md)
@@ -79,8 +79,8 @@ Week 02 → Agentic AI with Claude Code<br>
 Week 03 → Linux & Bash for DevOps<br>
 [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
-<!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
+Week 04 → Git & GitHub<br>
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -133,7 +133,7 @@ Week 03 → Linux & Bash for DevOps<br>
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/kevinkr77_week-1-of-my-devops-micro-internship-mindset-activity-7505968129349554176-0WKn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADLU32UBlzzSHmwfzbnrfvDXBU8IykC6Zyw | https://medium.com/@kevinraphy1/from-curious-cse-student-to-engineer-how-kevin-raphy-built-his-way-into-tech-8f7e350e4abb?sharedUserId=kevinraphy1 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | [LinkedIn Post](https://www.linkedin.com/in/kevinkr77/) | [Reflection Blog](./week-02-agentic-ai/assignment-08-week-2-reflection.md) |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | [LinkedIn Post](https://www.linkedin.com/posts/kevinkr77_dmibypravinmishra-agenticai-claude-activity-7508493898118815744-Wq2v?utm_source=share&utm_medium=member_desktop) | [Reflection Blog](./week-03-linux-and-bash-for-devops/blog-post-week-03-linux-and-bash-for-devops.md) |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved | [LinkedIn Post](https://www.linkedin.com/posts/kevinkr77_dmibypravinmishra-devops-claudecode-activity-7509928192408371200-Pq9w?utm_source=share&utm_medium=member_desktop) | [Reflection Blog](./week-04-git-and-github/blog-post-week-04-git-and-github.md) |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
